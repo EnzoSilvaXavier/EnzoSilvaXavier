@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, pessoal! 👋
 
 <!--
-**EnzoSilvaXavier/EnzoSilvaXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EnzoSilvaXavier/EnzoSilvaXavier** é um repositório✨ _especial_ ✨porque é um `README.md` (esse aquivo (>‿◠)✌) aparece no meu perfil do GitHub.
 
-Here are some ideas to get you started:
+Algumas coisas sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualemtne estou matriculado em: Sistemas de Informação pela UNA.
+- 🌱 Atualmente estou aprendendo: JAVA, HTML e CSS. 👨‍🎓
+- 🤔 Estou procurando ajuda com: linguagem JAVA, pois estou começando a estuda-la! 😎
+- 💬 Pergunte-me sobre qualquer coisa sobre: CSGO e academia que irei te responder!
+- 📫 Como entrar em contato comigo: me manda mensagem em qualquer uma das minhas redes sociais! 😎
+- 😄 Pronomes: ele/dele
+- ⚡ Fun fact: gosto muito de jogar CSGO
 -->
