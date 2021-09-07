@@ -13,3 +13,8 @@ Algumas coisas sobre mim:
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: gosto muito de jogar CSGO
 -->
+Social midea:
+Instagram: https://www.instagram.com/enzosx.pvd/
+Twitter: https://twitter.com/Enzosxxx
+Facebook: https://www.facebook.com/enzo.xavier.31/
+Linkedin: https://www.linkedin.com/in/enzo-xavier-9ab92521a/
