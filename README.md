@@ -1,6 +1,6 @@
 ### Olá, pessoal! 👋
 
-<!--
+
 **EnzoSilvaXavier/EnzoSilvaXavier** é um repositório✨ _especial_ ✨porque é um `README.md` (esse aquivo (>‿◠)✌) aparece no meu perfil do GitHub.
 
 Algumas coisas sobre mim:
@@ -12,7 +12,7 @@ Algumas coisas sobre mim:
 - 📫 Como entrar em contato comigo: me manda mensagem em qualquer uma das minhas redes sociais! 😎
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: gosto muito de jogar CSGO
--->
+
 Social midea:
 Instagram: https://www.instagram.com/enzosx.pvd/
 Twitter: https://twitter.com/Enzosxxx
